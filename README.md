@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @new-napkin
-- 👀 I’m interested in biology actually. Maybe a bit of programming and algorithm-writing. who knows. 
-- 🌱 I’m currently learning Java, Swift, html/css/js, and python
+- 👀 I’m a big fan of algorithms and analyzing algorithms. I also enjy code-breaking. 
+- 🌱 I’m fluent in Java, and I know some Swift. I can also build websites with html/css/js :)
 
 <!---
 new-napkin/new-napkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
